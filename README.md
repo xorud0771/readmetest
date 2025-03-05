@@ -29,5 +29,5 @@ html 코드 작성
 [simple icons](https://simpleicons.org/)
 [Shields.io](https://shields.io/)
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/kimtaekyeong-FFCA28?STYLE=flat-square&logo=apple">
 
