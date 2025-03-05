@@ -33,3 +33,9 @@ html 코드 작성
 
 ![표시문자](url)
 ![git](https://git-scm.com/images/logo@2x.png)
+
+*강조*  
+_강조_  
+**강조**  
+__강조__  
+~~강조~~  
